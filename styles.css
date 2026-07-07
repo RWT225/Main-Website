@@ -1,2 +1,11 @@
 /* this is the stylesheet which dictates the style of every page when linked in the pages respective html file code */
 
+body {
+    background-color: grey;
+}
+
+.wrapper {
+    background-color: white;
+    width: 90%;
+    max-width: 800px;
+}
