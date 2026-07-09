@@ -20,8 +20,6 @@ img {
     margin-top: auto;
     margin-bottom: auto;
     overflow-y: scroll;
-    overflow-y: visible;
-    overflow-y: auto;
     max-height: auto;
     scroll-behavior: smooth;
 }
