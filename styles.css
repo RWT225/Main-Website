@@ -19,8 +19,10 @@ img {
     margin-right: auto;
     margin-top: auto;
     margin-bottom: auto;
+    overflow-y: scroll;
+    overflow-y: visible;
+    overflow-y: auto;
     scroll-behavior: smooth;
-    scrollbar-width: thin;
 }
 
 header {
